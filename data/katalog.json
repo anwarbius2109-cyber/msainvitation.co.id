@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Toraja",
+    "gambar": "assets/katalog/Toraja.jpg",
+    "link": "https://msainvitation.com/preview/toraja",
+    "kategori": "wedding",
+    "keyword": ["adat","batak","merah"]
+},
+{
     "nama": "Jawa x Melayu",
     "gambar": "assets/katalog/Jawa x Melayu.jpg",
     "link": "https://msainvitation.com/preview/jawa-melayu",
