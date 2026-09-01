@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Flamingo",
+    "gambar": "assets/katalog/Flamingo.jpg",
+    "link": "https://msainvitation.com/preview/flamingo",
+    "kategori": "ulangtahun",
+    "keyword": ["pink","rumah","anak","hewan"]
+},
+{
+    "nama": "Miner",
+    "gambar": "assets/katalog/Miner.jpg",
+    "link": "https://msainvitation.com/preview/miner",
+    "kategori": "ulangtahun",
+    "keyword": ["mobil","truck","anak","kuning"]
+},
+{
     "nama": "Floral Purple",
     "gambar": "assets/katalog/Floral Purple.webp",
     "link": "https://msainvitation.com/preview/floral-purple",
