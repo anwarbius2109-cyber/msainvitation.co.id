@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Elegant Red",
+    "gambar": "assets/katalog/Elegant Red.jpg",
+    "link": "https://msainvitation.com/preview/elegant-red",
+    "kategori": "kartun",
+    "keyword": ["merah","polos","mawar","bunga"]
+},
+{
+    "nama": "Tropical Plants",
+    "gambar": "assets/katalog/Tropical Plants.jpg",
+    "link": "https://msainvitation.com/preview/tropical-plants",
+    "kategori": "kartun",
+    "keyword": ["hijau","sage","bunga"]
+},
+{
     "nama": "Watercolor Flowers",
     "gambar": "assets/katalog/Watercolor Flowers.jpg",
     "link": "https://msainvitation.com/preview/watercolor-flowers",
