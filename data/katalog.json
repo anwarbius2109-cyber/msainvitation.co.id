@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Jawa Minang",
+    "gambar": "assets/katalog/Jawa Minang.jpg",
+    "link": "https://msainvitation.com/preview/jawa-minang",
+    "kategori": "wedding",
+    "keyword": ["maroon","mawar","adat"]
+},
+{
+    "nama": "Angela",
+    "gambar": "assets/katalog/Angela.jpg",
+    "link": "https://msainvitation.com/preview/angela",
+    "kategori": "tanpafoto",
+    "keyword": ["merah","mawar","polos"]
+},
+{
+    "nama": "Simple Bugis",
+    "gambar": "assets/katalog/Simple Bugis.jpg",
+    "link": "https://msainvitation.com/preview/simple-bugis",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","merah","polos"]
+},
+{
     "nama": "Argentina Birthday",
     "gambar": "assets/katalog/Argentina Birthday.jpg",
     "link": "https://msainvitation.com/preview/argentina-birthday",
