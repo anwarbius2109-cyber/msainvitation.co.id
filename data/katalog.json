@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Watercolor Flowers",
+    "gambar": "assets/katalog/Watercolor Flowers.jpg",
+    "link": "https://msainvitation.com/preview/watercolor-flowers",
+    "kategori": "wedding",
+    "keyword": ["maroon","mawar","merah"]
+},
+{
+    "nama": "Maroon and Blue",
+    "gambar": "assets/katalog/Maroon and Blue.jpg",
+    "link": "https://msainvitation.com/preview/maroon-and-blue",
+    "kategori": "wedding",
+    "keyword": ["biru","mawar","maroon"]
+},
+{
     "nama": "Flamingo",
     "gambar": "assets/katalog/Flamingo.jpg",
     "link": "https://msainvitation.com/preview/flamingo",
