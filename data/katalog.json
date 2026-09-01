@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Floral Purple",
+    "gambar": "assets/katalog/Floral Purple.webp",
+    "link": "https://msainvitation.com/preview/floral-purple",
+    "kategori": "tanpafoto",
+    "keyword": ["purple","ungu","polos"]
+},
+{
+    "nama": "Maroon Flowers",
+    "gambar": "assets/katalog/Maroon Flowers.jpg",
+    "link": "https://msainvitation.com/preview/maroon-flowers",
+    "kategori": "tanpafoto",
+    "keyword": ["maroon","bunga","polos"]
+},
+{
     "nama": "Feminime Javanese",
     "gambar": "assets/katalog/Feminime Javanese.jpg",
     "link": "https://msainvitation.com/preview/feminime-javanese",
