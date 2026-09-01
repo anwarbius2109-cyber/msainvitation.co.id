@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Argentina Birthday",
+    "gambar": "assets/katalog/Argentina Birthday.jpg",
+    "link": "https://msainvitation.com/preview/argentina-birthday",
+    "kategori": "ulangtahun",
+    "keyword": ["biru","messi","anak","bola"]
+},
+{
+    "nama": "Bare Bears",
+    "gambar": "assets/katalog/Bare Bears.jpg",
+    "link": "https://msainvitation.com/preview/bare-bears",
+    "kategori": "ulangtahun",
+    "keyword": ["beruan","anak","hewan"]
+},
+{
+    "nama": "Halal Bihalal",
+    "gambar": "assets/katalog/Halal Bihalal.jpg",
+    "link": "https://msainvitation.com/preview/halal-bihalal",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim"]
+},
+{
     "nama": "Elegant Red",
     "gambar": "assets/katalog/Elegant Red.jpg",
     "link": "https://msainvitation.com/preview/elegant-red",
