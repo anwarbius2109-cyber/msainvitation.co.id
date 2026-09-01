@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Feminime Javanese",
+    "gambar": "assets/katalog/Feminime Javanese.jpg",
+    "link": "https://msainvitation.com/preview/feminime-javanese",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","cream"]
+},
+{
+    "nama": "Maroon Javanese",
+    "gambar": "assets/katalog/Maroon Javanese.jpg",
+    "link": "https://msainvitation.com/preview/maroon-javanese",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","jawa","wayang","merah"]
+},
+{
+    "nama": "Minimalist Blue",
+    "gambar": "assets/katalog/Minimalist Blue.jpg",
+    "link": "https://msainvitation.com/preview/minimalist-blue",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","gold","polos"]
+},
+{
     "nama": "Toraja",
     "gambar": "assets/katalog/Toraja.jpg",
     "link": "https://msainvitation.com/preview/toraja",
