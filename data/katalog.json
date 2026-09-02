@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Chinese Wedding",
+    "gambar": "assets/katalog/Chinese Wedding.jpg",
+    "link": "https://msainvitation.com/preview/chinese-wedding",
+    "kategori": "wedding",
+    "keyword": ["merah","ciba","gold"]
+},
+{
+    "nama": "Eid Mubarak",
+    "gambar": "assets/katalog/Eid Mubarak.jpg",
+    "link": "https://msainvitation.com/preview/eid-mubarak",
+    "kategori": "aqiqah",
+    "keyword": ["muslim","putih","islami","aqiqah"]
+},
+{
     "nama": "Exclusive Ramadhan",
     "gambar": "assets/katalog/Exclusive Ramadhan.jpg",
     "link": "https://msainvitation.com/preview/exclusive-ramadhan",
