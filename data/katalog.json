@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Ramadhan Decorative",
+    "gambar": "assets/katalog/Ramadhan Decorative.jpg",
+    "link": "https://msainvitation.com/preview/ramadhan-decorative",
+    "kategori": "aqiqah",
+    "keyword": ["gold","putih","islami","aqiqah"]
+},
+{
+    "nama": "Adat Karo",
+    "gambar": "assets/katalog/Adat Karo.jpg",
+    "link": "https://msainvitation.com/preview/adat-karo",
+    "kategori": "kartun",
+    "keyword": ["adat","polos","batak","merah"]
+},
+{
     "nama": "Black Coral",
     "gambar": "assets/katalog/Black Coral.jpg",
     "link": "https://msainvitation.com/preview/black-coral",
