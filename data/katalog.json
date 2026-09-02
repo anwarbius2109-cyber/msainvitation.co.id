@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Royal Purple",
+    "gambar": "assets/katalog/Royal Purple.jpg",
+    "link": "https://msainvitation.com/preview/royal-purple",
+    "kategori": "party&dinner",
+    "keyword": ["ungu","romantis","soft","birtday"]
+},
+{
+    "nama": "Islamic Wedding",
+    "gambar": "assets/katalog/Islamic Wedding.jpg",
+    "link": "https://msainvitation.com/preview/islamic-wedding",
+    "kategori": "tanpafoto",
+    "keyword": ["orange","bunga","islami"]
+},
+{
     "nama": "Imperial Flower",
     "gambar": "assets/katalog/Imperial Flower.jpg",
     "link": "https://msainvitation.com/preview/imperial-flower",
@@ -735,7 +749,7 @@
     "keyword": ["adat","maroon","merah","bugis"]
 },
 {
-    "nama": "Flat Islamicr",
+    "nama": "Flat Islamic",
     "gambar": "assets/katalog/Flat Islamic.jpg",
     "link": "https://msainvitation.com/preview/flat-islamic",
     "kategori": "aqiqah",
