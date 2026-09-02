@@ -1,10 +1,24 @@
 [
   {
+    "nama": "Midnight Blue",
+    "gambar": "assets/katalog/Midnight Blue.jpg",
+    "link": "https://msainvitation.com/preview/midnight-blue",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","polos"]
+},
+{
+    "nama": "Aesthetic Victorian",
+    "gambar": "assets/katalog/Aesthetic Victorian.jpg",
+    "link": "https://msainvitation.com/preview/aesthetic-victorian",
+    "kategori": "wedding",
+    "keyword": ["creame","kerajaan","gold"]
+},
+{
     "nama": "Chinese Wedding",
     "gambar": "assets/katalog/Chinese Wedding.jpg",
     "link": "https://msainvitation.com/preview/chinese-wedding",
     "kategori": "wedding",
-    "keyword": ["merah","ciba","gold"]
+    "keyword": ["merah","cina","gold"]
 },
 {
     "nama": "Eid Mubarak",
