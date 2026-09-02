@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Maroon Watercolor",
+    "gambar": "assets/katalog/Maroon Watercolor.jpg",
+    "link": "https://msainvitation.com/preview/maroon-watercolor",
+    "kategori": "wedding",
+    "keyword": ["pink","bunga"]
+},
+{
+    "nama": "Minimalist Pink",
+    "gambar": "assets/katalog/Minimalist Pink.jpg",
+    "link": "https://msainvitation.com/preview/minimalist-pink",
+    "kategori": "tanpafoto",
+    "keyword": ["pink","bunga","polos"]
+},
+{
     "nama": "Ramadhan Decorative",
     "gambar": "assets/katalog/Ramadhan Decorative.jpg",
     "link": "https://msainvitation.com/preview/ramadhan-decorative",
