@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Imperial Flower",
+    "gambar": "assets/katalog/Imperial Flower.jpg",
+    "link": "https://msainvitation.com/preview/imperial-flower",
+    "kategori": "wedding",
+    "keyword": ["silver","bunga","abuabu"]
+},
+{
+    "nama": "Ultraman",
+    "gambar": "assets/katalog/Ultraman.jpg",
+    "link": "https://msainvitation.com/preview/ultraman",
+    "kategori": "ulangtahun",
+    "keyword": ["robot","mainan","anak"]
+},
+{
     "nama": "Maroon Watercolor",
     "gambar": "assets/katalog/Maroon Watercolor.jpg",
     "link": "https://msainvitation.com/preview/maroon-watercolor",
