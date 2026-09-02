@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Exclusive Ramadhan",
+    "gambar": "assets/katalog/Exclusive Ramadhan.jpg",
+    "link": "https://msainvitation.com/preview/exclusive-ramadhan",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim"]
+},
+{
+    "nama": "Ramadhan Kareem",
+    "gambar": "assets/katalog/Ramadhan Kareem.jpg",
+    "link": "https://msainvitation.com/preview/ramadhan-kareem",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim"]
+},
+{
+    "nama": "Mandaling",
+    "gambar": "assets/katalog/Mandaling.jpg",
+    "link": "https://msainvitation.com/preview/mandaling",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","wayang","coklat"]
+},
+{
+    "nama": "Boho Terracotta",
+    "gambar": "assets/katalog/Boho Terracotta.jpg",
+    "link": "https://msainvitation.com/preview/boho-terracotta",
+    "kategori": "wedding",
+    "keyword": ["orange","bunga","dedaunan"]
+},
+{
     "nama": "Royal Purple",
     "gambar": "assets/katalog/Royal Purple.jpg",
     "link": "https://msainvitation.com/preview/royal-purple",
