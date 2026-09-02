@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Black Coral",
+    "gambar": "assets/katalog/Black Coral.jpg",
+    "link": "https://msainvitation.com/preview/black-coral",
+    "kategori": "wedding",
+    "keyword": ["abuabu","biru","bunga"]
+},
+{
+    "nama": "Java Blue",
+    "gambar": "assets/katalog/Java Blue.jpg",
+    "link": "https://msainvitation.com/preview/java-blue",
+    "kategori": "wedding",
+    "keyword": ["jawa","biru","adat"]
+},
+{
     "nama": "Jawa Minang",
     "gambar": "assets/katalog/Jawa Minang.jpg",
     "link": "https://msainvitation.com/preview/jawa-minang",
