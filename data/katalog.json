@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Javanese Wayang",
+    "gambar": "assets/katalog/Javanese Wayang.jpg",
+    "link": "https://msainvitation.com/preview/javanese-wayang",
+    "kategori": "tanpafoto",
+    "keyword": ["coklat","jawa","gunungan"]
+},
+{
+    "nama": "Blue Watercolor",
+    "gambar": "assets/katalog/Blue Watercolor.jpg",
+    "link": "https://msainvitation.com/preview/blue-watercolor",
+    "kategori": "kartun",
+    "keyword": ["putih","biru","gold"]
+},
+{
+    "nama": "Elegant Blue",
+    "gambar": "assets/katalog/Elegant Blue.jpg",
+    "link": "https://msainvitation.com/preview/elegant-blue",
+    "kategori": "wedding",
+    "keyword": ["biru","salju"]
+},
+{
+    "nama": "Royal Birthday",
+    "gambar": "assets/katalog/Royal Birthday.jpg",
+    "link": "https://msainvitation.com/preview/royal-birthday",
+    "kategori": "party&dinner",
+    "keyword": ["biru","romantis","soft","birtday"]
+},
+{
     "nama": "Tree of Bird",
     "gambar": "assets/katalog/Tree of Bird.jpg",
     "link": "https://msainvitation.com/preview/tree-of-bird",
