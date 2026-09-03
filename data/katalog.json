@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Tosca Green",
+    "gambar": "assets/katalog/Tosca Green.jpg",
+    "link": "https://msainvitation.com/preview/tosca-green",
+    "kategori": "aqiqah",
+    "keyword": ["biru","putih","islami","aqiqah"]
+},
+{
+    "nama": "Maple Gold",
+    "gambar": "assets/katalog/Maple Gold.jpg",
+    "link": "https://msainvitation.com/preview/maple-gold",
+    "kategori": "tanpafoto",
+    "keyword": ["coklat","kuning"]
+},
+{
     "nama": "Aesthetic Java",
     "gambar": "assets/katalog/Aesthetic Java.jpg",
     "link": "https://msainvitation.com/preview/aesthetic-java",
