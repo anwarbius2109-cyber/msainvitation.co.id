@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Spongebob Birthday",
+    "gambar": "assets/katalog/Spongebob Birthday.jpg",
+    "link": "https://msainvitation.com/preview/spongebob",
+    "kategori": "ulangtahun",
+    "keyword": ["biru","uburubur","anak","laut"]
+},
+{
+    "nama": "Sunflower",
+    "gambar": "assets/katalog/Sunflower.jpg",
+    "link": "https://msainvitation.com/preview/sunflower",
+    "kategori": "kartun",
+    "keyword": ["putih","kekinian"]
+},
+{
     "nama": "Jawa Asli",
     "gambar": "assets/katalog/Jawa Asli.jpg",
     "link": "https://msainvitation.com/preview/jawa-asli",
