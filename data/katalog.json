@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Tree of Bird",
+    "gambar": "assets/katalog/Tree of Bird.jpg",
+    "link": "https://msainvitation.com/preview/tree-of-bird",
+    "kategori": "tanpafoto",
+    "keyword": ["hijau","dedaunan","polos"]
+},
+{
+    "nama": "Camelia",
+    "gambar": "assets/katalog/Camelia.jpg",
+    "link": "https://msainvitation.com/preview/camelia",
+    "kategori": "wedding",
+    "keyword": ["biru","salju"]
+},
+{
     "nama": "Spongebob Birthday",
     "gambar": "assets/katalog/Spongebob Birthday.jpg",
     "link": "https://msainvitation.com/preview/spongebob",
