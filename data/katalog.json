@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Jawa Asli",
+    "gambar": "assets/katalog/Jawa Asli.jpg",
+    "link": "https://msainvitation.com/preview/jawa-asli",
+    "kategori": "tanpafoto",
+    "keyword": ["hitam","wayang","polos"]
+},
+{
+    "nama": "Green Watercolor",
+    "gambar": "assets/katalog/Green Watercolor.jpg",
+    "link": "https://msainvitation.com/preview/green-watercolor",
+    "kategori": "kartun",
+    "keyword": ["sage","hijau","muslim"]
+},
+{
+    "nama": "Terracotta",
+    "gambar": "assets/katalog/Terracotta.jpg",
+    "link": "https://msainvitation.com/preview/terracotta",
+    "kategori": "wedding",
+    "keyword": ["creame","maroon","merah"]
+},
+{
     "nama": "Midnight Blue",
     "gambar": "assets/katalog/Midnight Blue.jpg",
     "link": "https://msainvitation.com/preview/midnight-blue",
