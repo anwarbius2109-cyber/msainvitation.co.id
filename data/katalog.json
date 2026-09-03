@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Aesthetic Java",
+    "gambar": "assets/katalog/Aesthetic Java.jpg",
+    "link": "https://msainvitation.com/preview/aesthetic-java",
+    "kategori": "tanpafoto",
+    "keyword": ["coklat","jawa","gunungan"]
+},
+{
+    "nama": "Beautiful Flower",
+    "gambar": "assets/katalog/Beautiful Flower.jpg",
+    "link": "https://msainvitation.com/preview/beautiful-flower",
+    "kategori": "tanpafoto",
+    "keyword": ["bunga","biru","mawar"]
+},
+{
+    "nama": "Ylang Ylang",
+    "gambar": "assets/katalog/Ylang Ylang.jpg",
+    "link": "https://msainvitation.com/preview/ylang-ylang",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","polos","hijautua"]
+},
+{
     "nama": "Javanese Wayang",
     "gambar": "assets/katalog/Javanese Wayang.jpg",
     "link": "https://msainvitation.com/preview/javanese-wayang",
