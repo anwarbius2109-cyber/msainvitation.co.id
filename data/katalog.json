@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Islamic Geometric",
+    "gambar": "assets/katalog/Islamic Geometric.jpg",
+    "link": "https://msainvitation.com/preview/islamic-geometric",
+    "kategori": "aqiqah",
+    "keyword": ["sage","putih","islami","aqiqah"]
+},
+{
+    "nama": "Blue Metalic",
+    "gambar": "assets/katalog/Blue Metalic.jpg",
+    "link": "https://msainvitation.com/preview/blue-metalic",
+    "kategori": "aqiqah",
+    "keyword": ["biru","putih","islami","aqiqah"]
+},
+{
+    "nama": "Navy Flowers",
+    "gambar": "assets/katalog/Navy Flowers.jpg",
+    "link": "https://msainvitation.com/preview/navy-flowers",
+    "kategori": "wedding",
+    "keyword": ["biru","salju"]
+},
+{
     "nama": "Tosca Green",
     "gambar": "assets/katalog/Tosca Green.jpg",
     "link": "https://msainvitation.com/preview/tosca-green",
