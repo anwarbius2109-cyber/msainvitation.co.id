@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Sundar Bageecha",
+    "gambar": "assets/katalog/Sundar Bageecha.jpg",
+    "link": "https://msainvitation.com/preview/sundar-bageecha",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","feminim","polos"]
+},
+{
+    "nama": "Pink Barbie",
+    "gambar": "assets/katalog/Pink Barbie.jpg",
+    "link": "https://msainvitation.com/preview/pink-barbie",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","cewe","anak"]
+},
+{
+    "nama": "Dark Purple",
+    "gambar": "assets/katalog/Dark Purple.jpg",
+    "link": "https://msainvitation.com/preview/dark-purple",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim","ungu"]
+},
+{
+    "nama": "Creamy Coral",
+    "gambar": "assets/katalog/Creamy Coral.jpg",
+    "link": "https://msainvitation.com/preview/creamy-coral",
+    "kategori": "wedding",
+    "keyword": ["abuabu","silver"]
+},
+{
     "nama": "Romantic Floral",
     "gambar": "assets/katalog/Romantic Floral.jpg",
     "link": "https://msainvitation.com/preview/romantic-floral",
