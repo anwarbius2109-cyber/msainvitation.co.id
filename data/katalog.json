@@ -1,5 +1,40 @@
 [
   {
+    "nama": "Romantic Floral",
+    "gambar": "assets/katalog/Romantic Floral.jpg",
+    "link": "https://msainvitation.com/preview/romantic-floral",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","feminim","polos"]
+},
+{
+  "nama": "Pakpak x Banjar",
+    "gambar": "assets/katalog/Pakpak x Banjar.jpg",
+    "link": "https://msainvitation.com/preview/pakpak-banjar",
+    "kategori": "kartun",
+    "keyword": ["adat","kuning","pink"]
+},
+{
+    "nama": "Engagement",
+    "gambar": "assets/katalog/Engagement.jpg",
+    "link": "https://msainvitation.com/preview/engagement",
+    "kategori": "tanpafoto",
+    "keyword": ["hijau","daun"]
+},
+{
+    "nama": "Leaves Design",
+    "gambar": "assets/katalog/Leaves Design.jpg",
+    "link": "https://msainvitation.com/preview/leaves-design",
+    "kategori": "tanpafoto",
+    "keyword": ["hijau","daun"]
+},
+{
+    "nama": "Ampera Maroon",
+    "gambar": "assets/katalog/Ampera Maroon.jpg",
+    "link": "https://msainvitation.com/preview/ampera-maroon",
+    "kategori": "kartun",
+    "keyword": ["adat","cream","ungu"]
+},
+{
     "nama": "Islamic Geometric",
     "gambar": "assets/katalog/Islamic Geometric.jpg",
     "link": "https://msainvitation.com/preview/islamic-geometric",
