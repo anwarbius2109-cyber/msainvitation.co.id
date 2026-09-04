@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Medieval Kingdom",
+    "gambar": "assets/katalog/Medieval Kingdom.jpg",
+    "link": "https://msainvitation.com/preview/medieval-kingdom",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","ungu","islami"]
+},
+{
+    "nama": "White Kingdom",
+    "gambar": "assets/katalog/White Kingdom.jpg",
+    "link": "https://msainvitation.com/preview/white-kingdom",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","fislami","polos"]
+},
+{
+    "nama": "Brown Flowers",
+    "gambar": "assets/katalog/Brown Flowers.jpg",
+    "link": "https://msainvitation.com/preview/brown-flowers",
+    "kategori": "wedding",
+    "keyword": ["coklat","dedaunan"]
+},
+{
+    "nama": "Green Roses",
+    "gambar": "assets/katalog/Green Roses.jpg",
+    "link": "https://msainvitation.com/preview/green-roses",
+    "kategori": "wedding",
+    "keyword": ["abuabu","hijau"]
+},
+{
     "nama": "Sundar Bageecha",
     "gambar": "assets/katalog/Sundar Bageecha.jpg",
     "link": "https://msainvitation.com/preview/sundar-bageecha",
