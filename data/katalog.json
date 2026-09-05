@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Carolina Blue",
+    "gambar": "assets/katalog/Carolina Blue.jpg",
+    "link": "https://msainvitation.com/preview/carolina-blue",
+    "kategori": "aqiqah",
+    "keyword": ["sage","putih","islami","aqiqah"]
+},
+{
+    "nama": "Baby Blue",
+    "gambar": "assets/katalog/Baby Blue.jpg",
+    "link": "https://msainvitation.com/preview/baby-blue",
+    "kategori": "aqiqah",
+    "keyword": ["biru","putih","islami","aqiqah"]
+},
+{
+    "nama": "Classic Parthenon",
+    "gambar": "assets/katalog/Classic Parthenon.jpg",
+    "link": "hhttps://msainvitation.com/preview/classic-parthenon",
+    "kategori": "wedding",
+    "keyword": ["abuabu","hijau","dedaunan"]
+},
+{
+    "nama": "Vintage Peacock",
+    "gambar": "assets/katalog/Vintage Peacock.jpg",
+    "link": "https://msainvitation.com/preview/vintage-peacock",
+    "kategori": "tanpafoto",
+    "keyword": ["merak","creame"]
+},
+{
     "nama": "Crayola Flowers",
     "gambar": "assets/katalog/Crayola Flowers.jpg",
     "link": "https://msainvitation.com/preview/crayola-flowers",
