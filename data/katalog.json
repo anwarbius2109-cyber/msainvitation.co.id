@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Wonderful",
+    "gambar": "assets/katalog/Wonderful.jpg",
+    "link": "https://msainvitation.com/preview/wonderful",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","merak","creame"]
+},
+{
+    "nama": "Hand Drawn",
+    "gambar": "assets/katalog/Hand Drawn.jpg",
+    "link": "https://msainvitation.com/preview/hand-drawn",
+    "kategori": "tanpafoto",
+    "keyword": ["bunga","ungu","creame"]
+},
+{
+    "nama": "Java Maroon",
+    "gambar": "assets/katalog/Java Maroon.jpg",
+    "link": "https://msainvitation.com/preview/java-maroon",
+    "kategori": "wedding",
+    "keyword": ["coklat","wayang","cream"]
+},
+{
     "nama": "Carolina Blue",
     "gambar": "assets/katalog/Carolina Blue.jpg",
     "link": "https://msainvitation.com/preview/carolina-blue",
