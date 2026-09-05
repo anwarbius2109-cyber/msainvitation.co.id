@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Crayola Flowers",
+    "gambar": "assets/katalog/Crayola Flowers.jpg",
+    "link": "https://msainvitation.com/preview/crayola-flowers",
+    "kategori": "wedding",
+    "keyword": ["coklat","dedaunan","hijau"]
+},
+{
+    "nama": "Dholpin Green",
+    "gambar": "assets/katalog/Dholpin Green.jpg",
+    "link": "https://msainvitation.com/preview/dolphin-green",
+    "kategori": "wedding",
+    "keyword": ["abuabu","hijau"]
+},
+{
+    "nama": "Yoru No Ryusei",
+    "gambar": "assets/katalog/Yoru No Ryusei.jpg",
+    "link": "https://msainvitation.com/preview/yoru-no-ryusei",
+    "kategori": "tanpafoto",
+    "keyword": ["sage","ungu","anime","langit"]
+},
+{
+    "nama": "Ethnic Pattern",
+    "gambar": "assets/katalog/Ethnic Pattern.jpg",
+    "link": "https://msainvitation.com/preview/ethnic-pattern",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","orange","islami"]
+},
+{
     "nama": "Medieval Kingdom",
     "gambar": "assets/katalog/Medieval Kingdom.jpg",
     "link": "https://msainvitation.com/preview/medieval-kingdom",
