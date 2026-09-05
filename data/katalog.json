@@ -1,5 +1,12 @@
 [
   {
+    "nama": "Boho Wedding",
+    "gambar": "assets/katalog/Boho Wedding.jpg",
+    "link": "https://msainvitation.com/preview/boho-wedding",
+    "kategori": "tanpafoto",
+    "keyword": ["bunga","dedaunan","creame"]
+},
+{
     "nama": "Dried Leaves V2",
     "gambar": "assets/katalog/Dried Leaves V2.jpg",
     "link": "https://msainvitation.com/preview/dried-leaves-2",
