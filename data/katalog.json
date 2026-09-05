@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Dried Leaves V2",
+    "gambar": "assets/katalog/Dried Leaves V2.jpg",
+    "link": "https://msainvitation.com/preview/dried-leaves-2",
+    "kategori": "wedding",
+    "keyword": ["coklat","dedaunan","cream"]
+},
+{
+    "nama": "Almond Flowers",
+    "gambar": "assets/katalog/Almond Flowers.jpg",
+    "link": "https://msainvitation.com/preview/almond-flowers",
+    "kategori": "wedding",
+    "keyword": ["coklat","bunga","cream"]
+},
+{
     "nama": "Wonderful",
     "gambar": "assets/katalog/Wonderful.jpg",
     "link": "https://msainvitation.com/preview/wonderful",
