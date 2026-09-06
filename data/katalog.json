@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Adat Bugis",
+    "gambar": "assets/katalog/Adat Bugis.jpg",
+    "link": "https://msainvitation.com/preview/adat-bugis",
+    "kategori": "tanpafoto",
+    "keyword": ["coklat","adat"]
+},
+{
+    "nama": "Luxury Golden V2",
+    "gambar": "assets/katalog/Luxury Golden V2.jpg",
+    "link": "https://msainvitation.com/preview/luxury-golden-v2",
+    "kategori": "wedding",
+    "keyword": ["hijau","dedaunan","cream"]
+},
+{
     "nama": "Blue Floral",
     "gambar": "assets/katalog/Blue Floral.jpg",
     "link": "https://msainvitation.com/preview/blue-floral",
