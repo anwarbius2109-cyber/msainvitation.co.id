@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Blue Floral",
+    "gambar": "assets/katalog/Blue Floral.jpg",
+    "link": "https://msainvitation.com/preview/blue-floral",
+    "kategori": "wedding",
+    "keyword": ["biru","putih","polos"]
+},
+{
+    "nama": "Fairy Purple",
+    "gambar": "assets/katalog/Fairy Purple.jpg",
+    "link": "https://msainvitation.com/preview/fairy-purple",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","peri","anak","ungu"]
+},
+{
     "nama": "Boho Wedding",
     "gambar": "assets/katalog/Boho Wedding.jpg",
     "link": "https://msainvitation.com/preview/boho-wedding",
