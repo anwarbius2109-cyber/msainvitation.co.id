@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Jawa Nias",
+    "gambar": "assets/katalog/Jawa Nias.jpg",
+    "link": "https://msainvitation.com/preview/jawa-nias",
+    "kategori": "wedding",
+    "keyword": ["adat","coklat"]
+},
+{
+    "nama": "Fairy Birthday",
+    "gambar": "assets/katalog/Fairy Birthday.jpg",
+    "link": "https://msainvitation.com/preview/fairy-birthday",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","peri","anak","pink"]
+},
+{
     "nama": "Adat Bugis",
     "gambar": "assets/katalog/Adat Bugis.jpg",
     "link": "https://msainvitation.com/preview/adat-bugis",
