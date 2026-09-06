@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Vintage Birthday",
+    "gambar": "assets/katalog/Vintage Birthday.jpg",
+    "link": "https://msainvitation.com/preview/vintage-birthday",
+    "kategori": "party&dinner",
+    "keyword": ["coklat","romantis","soft","birtday"]
+},
+{
+    "nama": "Ice Silver",
+    "gambar": "assets/katalog/Ice Silver.jpg",
+    "link": "https://msainvitation.com/preview/ice-silver",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","polos"]
+},
+{
     "nama": "Jawa Nias",
     "gambar": "assets/katalog/Jawa Nias.jpg",
     "link": "https://msainvitation.com/preview/jawa-nias",
