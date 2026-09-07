@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Unicorn Party",
+    "gambar": "assets/katalog/Unicorn Party.jpg",
+    "link": "https://msainvitation.com/preview/unicorn-party",
+    "kategori": "ulangtahun",
+    "keyword": ["kudaponi","anak","pink"]
+},
+{
+    "nama": "Jawa x Betawi",
+    "gambar": "assets/katalog/Jawa x Betawi.jpg",
+    "link": "https://msainvitation.com/preview/jawa-betawi",
+    "kategori": "kartun",
+    "keyword": ["adat","hitam","gold"]
+},
+{
     "nama": "Luxury Maroon",
     "gambar": "assets/katalog/Luxury Maroon.jpg",
     "link": "https://msainvitation.com/preview/luxury-maroon",
