@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Luxury Maroon",
+    "gambar": "assets/katalog/Luxury Maroon.jpg",
+    "link": "https://msainvitation.com/preview/luxury-maroon",
+    "kategori": "tanpafoto",
+    "keyword": ["merah","polos"]
+},
+{
+    "nama": "Black and White",
+    "gambar": "assets/katalog/Black and White.jpg",
+    "link": "https://msainvitation.com/preview/black-and-white",
+    "kategori": "wedding",
+    "keyword": ["abuabu","cream"]
+},
+{
     "nama": "Vintage Birthday",
     "gambar": "assets/katalog/Vintage Birthday.jpg",
     "link": "https://msainvitation.com/preview/vintage-birthday",
