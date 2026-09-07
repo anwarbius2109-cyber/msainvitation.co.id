@@ -1,5 +1,54 @@
 [
   {
+    "nama": "Minimal Wedding",
+    "gambar": "assets/katalog/Minimal Wedding.jpg",
+    "link": "https://msainvitation.com/preview/minimal-wedding",
+    "kategori": "wedding",
+    "keyword": ["bunga","flower","coklat"]
+},
+{
+    "nama": "Elegant Aceh",
+    "gambar": "assets/katalog/Elegant Aceh.jpg",
+    "link": "https://msainvitation.com/preview/elegant-aceh",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","coklat","gold"]
+},
+{
+    "nama": "Soft Blue",
+    "gambar": "assets/katalog/Soft Blue.jpg",
+    "link": "https://msainvitation.com/preview/soft-blue",
+    "kategori": "tanpafoto",
+    "keyword": ["biru","putih"]
+},
+{
+    "nama": "Pink Feather",
+    "gambar": "assets/katalog/Pink Feather.jpg",
+    "link": "https://msainvitation.com/preview/pink-feather",
+    "kategori": "wedding",
+    "keyword": ["bunga","flower"]
+},
+{
+  "nama": "Hot Wheels",
+    "gambar": "assets/katalog/Hot Wheels.jpg",
+    "link": "https://msainvitation.com/preview/hot-wheels",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","mainan","anak","mobil"]
+},
+{
+    "nama": "Lavender",
+    "gambar": "assets/katalog/Lavender.jpg",
+    "link": "https://msainvitation.com/preview/lavender",
+    "kategori": "wedding",
+    "keyword": ["ungu","flower"]
+},
+{
+    "nama": "Islamic Brown",
+    "gambar": "assets/katalog/Islamic Brown.jpg",
+    "link": "https://msainvitation.com/preview/islamic-brown",
+    "kategori": "aqiqah",
+    "keyword": ["coklat","islami","aqiqah"]
+},
+{
     "nama": "Classic Wedding",
     "gambar": "assets/katalog/Classic Wedding.jpg",
     "link": "https://msainvitation.com/preview/classic-wedding",
