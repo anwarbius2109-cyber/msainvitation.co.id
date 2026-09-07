@@ -1,5 +1,54 @@
 [
   {
+    "nama": "Budaya Aceh",
+    "gambar": "assets/katalog/Budaya Aceh.jpg",
+    "link": "https://msainvitation.com/preview/budaya-aceh",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","coklat","gold"]
+},
+{
+  "nama": "Dark Green",
+    "gambar": "assets/katalog/Dark Green.jpg",
+    "link": "https://msainvitation.com/preview/dark-green",
+    "kategori": "aqiqah",
+    "keyword": ["sage","putih","islami","aqiqah"]
+},
+{
+    "nama": "Navy Pink",
+    "gambar": "assets/katalog/Navy Pink.jpg",
+    "link": "https://msainvitation.com/preview/navy-pink",
+    "kategori": "tanpafoto",
+    "keyword": ["abuabu","gold"]
+},
+{
+    "nama": "Pinto Aceh",
+    "gambar": "assets/katalog/Pinto Aceh.jpg",
+    "link": "https://msainvitation.com/preview/pinto-aceh",
+    "kategori": "tanpafoto",
+    "keyword": ["adat","hitam","gold"]
+},
+{
+    "nama": "Blue Wedding",
+    "gambar": "assets/katalog/Blue Wedding.jpg",
+    "link": "https://msainvitation.com/preview/blue-wedding",
+    "kategori": "wedding",
+    "keyword": ["biru","putih"]
+},
+{
+    "nama": "Luxury Navy",
+    "gambar": "assets/katalog/Luxury Navy.jpg",
+    "link": "https://msainvitation.com/preview/luxury-navy",
+    "kategori": "tanpafoto",
+    "keyword": ["navy","polos"]
+},
+{
+    "nama": "Luxury Green",
+    "gambar": "assets/katalog/Luxury Green.jpg",
+    "link": "https://msainvitation.com/preview/luxury-green",
+    "kategori": "tanpafoto",
+    "keyword": ["abuabu","polos"]
+},
+{
     "nama": "Unicorn Party",
     "gambar": "assets/katalog/Unicorn Party.jpg",
     "link": "https://msainvitation.com/preview/unicorn-party",
