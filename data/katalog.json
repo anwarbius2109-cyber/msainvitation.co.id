@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Classic Wedding",
+    "gambar": "assets/katalog/Classic Wedding.jpg",
+    "link": "https://msainvitation.com/preview/classic-wedding",
+    "kategori": "tanpafoto",
+    "keyword": ["kerajaan","coklat","gold"]
+},
+{
+    "nama": "Red Rustic",
+    "gambar": "assets/katalog/Red Rustic.jpg",
+    "link": "https://msainvitation.com/preview/red-rustic",
+    "kategori": "wedding",
+    "keyword": ["merah","flower"]
+},
+{
     "nama": "Budaya Aceh",
     "gambar": "assets/katalog/Budaya Aceh.jpg",
     "link": "https://msainvitation.com/preview/budaya-aceh",
