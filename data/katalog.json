@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Adat Sunda",
+    "gambar": "assets/katalog/Adat Sunda.jpg",
+    "link": "https://msainvitation.com/preview/adat-sundar",
+    "kategori": "wedding",
+    "keyword": ["adat","kuning"]
+},
+{
+  "nama": "Minion Birthday",
+    "gambar": "assets/katalog/Minion Birthday.jpg",
+    "link": "https://msainvitation.com/preview/minion-birthday",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","mainan","anak","kuning"]
+},
+{
+    "nama": "Bataknese",
+    "gambar": "assets/katalog/Bataknese.jpg",
+    "link": "https://msainvitation.com/preview/bataknese",
+    "kategori": "wedding",
+    "keyword": ["adat","merah"]
+},
+{
     "nama": "Minimal Wedding",
     "gambar": "assets/katalog/Minimal Wedding.jpg",
     "link": "https://msainvitation.com/preview/minimal-wedding",
