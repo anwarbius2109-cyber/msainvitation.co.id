@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Fairy Tail",
+    "gambar": "assets/katalog/Fairy Tail.jpg",
+    "link": "https://msainvitation.com/preview/fairy-tail",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","peri","anak"]
+},
+{
+    "nama": "Emily",
+    "gambar": "assets/katalog/Emily.jpg",
+    "link": "https://msainvitation.com/preview/emily",
+    "kategori": "wedding",
+    "keyword": ["dedaunan","cream"]
+},
+{
+    "nama": "Avengers",
+    "gambar": "assets/katalog/Avengers.jpg",
+    "link": "https://msainvitation.com/preview/avengers",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","hero","anak","merah"]
+},
+{
     "nama": "Maroon Roses",
     "gambar": "assets/katalog/Maroon Roses.jpg",
     "link": "https://msainvitation.com/preview/maroon-roses",
