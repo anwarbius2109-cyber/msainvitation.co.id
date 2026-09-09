@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Green Tropical",
+    "gambar": "assets/katalog/Green Tropical.jpg",
+    "link": "https://msainvitation.com/preview/green-tropical",
+    "kategori": "wedding",
+    "keyword": ["hijau","flower"]
+},
+{
+    "nama": "Pink & Orange",
+    "gambar": "assets/katalog/Pink & Orange.jpg",
+    "link": "https://msainvitation.com/preview/pink-orange",
+    "kategori": "aqiqah",
+    "keyword": ["kuning","islami","aqiqah"]
+},
+{
     "nama": "Fairy Tail",
     "gambar": "assets/katalog/Fairy Tail.jpg",
     "link": "https://msainvitation.com/preview/fairy-tail",
