@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Astronout",
+    "gambar": "assets/katalog/Astronout.jpg",
+    "link": "https://msainvitation.com/preview/astronout",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","mainan","anak"]
+},
+{
+    "nama": "Baby Boss",
+    "gambar": "assets/katalog/Baby Boss.jpg",
+    "link": "https://msainvitation.com/preview/baby-boss",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","mainan","anak"]
+},
+{
+    "nama": "Galaxy",
+    "gambar": "assets/katalog/Galaxy.jpg",
+    "link": "https://msainvitation.com/preview/galaxy",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","mainan","anak"]
+},
+{
     "nama": "Adat Sunda",
     "gambar": "assets/katalog/Adat Sunda.jpg",
     "link": "https://msainvitation.com/preview/adat-sundar",
