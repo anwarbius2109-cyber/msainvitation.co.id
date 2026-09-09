@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Adat Jawa",
+    "gambar": "assets/katalog/Adat Jawa.jpg",
+    "link": "https://msainvitation.com/preview/adat-jawa",
+    "kategori": "kartun",
+    "keyword": ["adat","rama","gold"]
+},
+{
+    "nama": "Black Glitter",
+    "gambar": "assets/katalog/Black Glitter.jpg",
+    "link": "https://msainvitation.com/preview/black-glitter",
+    "kategori": "party&dinner",
+    "keyword": ["hitam","romantis","blink","birtday"]
+},
+{
+    "nama": "Brown Leaves",
+    "gambar": "assets/katalog/Brown Leaves.jpg",
+    "link": "https://msainvitation.com/preview/brown-leaves",
+    "kategori": "wedding",
+    "keyword": ["coklat","dedaunan"]
+},
+{
+    "nama": "Mandala V2",
+    "gambar": "assets/katalog/Mandala V2.jpg",
+    "link": "https://msainvitation.com/preview/mandala-v2",
+    "kategori": "wedding",
+    "keyword": ["bali","gold"]
+},
+{
     "nama": "Astronout",
     "gambar": "assets/katalog/Astronout.jpg",
     "link": "https://msainvitation.com/preview/astronout",
