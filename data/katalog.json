@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Elegant Wedding",
+    "gambar": "assets/katalog/Elegant Wedding.jpg",
+    "link": "https://msainvitation.com/preview/elegant-wedding",
+    "kategori": "wedding",
+    "keyword": ["kupukupu","cream"]
+},
+{
+    "nama": "Mermaid Seaweed",
+    "gambar": "assets/katalog/Mermaid Seaweed.jpg",
+    "link": "https://msainvitation.com/preview/mermaid-seaweed",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","laut","anak"]
+},
+{
+    "nama": "Magic Castle",
+    "gambar": "assets/katalog/Magic Castle.jpg",
+    "link": "https://msainvitation.com/preview/magic-castle",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","pink","anak"]
+},
+{
     "nama": "Adat Jawa",
     "gambar": "assets/katalog/Adat Jawa.jpg",
     "link": "https://msainvitation.com/preview/adat-jawa",
