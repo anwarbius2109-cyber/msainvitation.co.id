@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Maroon Roses",
+    "gambar": "assets/katalog/Maroon Roses.jpg",
+    "link": "https://msainvitation.com/preview/maroon-roses",
+    "kategori": "kartun",
+    "keyword": ["merah","bunga","animasi"]
+},
+{
+    "nama": "Blue Roses",
+    "gambar": "assets/katalog/Blue Roses.jpg",
+    "link": "https://msainvitation.com/preview/blue-roses",
+    "kategori": "tanpafoto",
+    "keyword": ["gold","biru","bunga"]
+},
+{
     "nama": "Adat Minang",
     "gambar": "assets/katalog/Adat Minang.jpg",
     "link": "https://msainvitation.com/preview/adat-minang",
