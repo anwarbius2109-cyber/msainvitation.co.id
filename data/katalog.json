@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Adat Minang",
+    "gambar": "assets/katalog/Adat Minang.jpg",
+    "link": "https://msainvitation.com/preview/adat-minang",
+    "kategori": "wedding",
+    "keyword": ["kmerah","adat"]
+},
+{
+    "nama": "Lilaq Feather",
+    "gambar": "assets/katalog/Lilaq Feather.jpg",
+    "link": "https://msainvitation.com/preview/lilaq-feather",
+    "kategori": "wedding",
+    "keyword": ["pink","cream"]
+},
+{
+    "nama": "Little Unicorn",
+    "gambar": "assets/katalog/Little Unicorn.jpg",
+    "link": "https://msainvitation.com/preview/little-unicorn",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","kudaponi","anak","pink"]
+},
+{
     "nama": "Elegant Wedding",
     "gambar": "assets/katalog/Elegant Wedding.jpg",
     "link": "https://msainvitation.com/preview/elegant-wedding",
