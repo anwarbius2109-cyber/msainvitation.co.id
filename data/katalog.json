@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Sage Green",
+    "gambar": "assets/katalog/Sage Green.jpg",
+    "link": "https://msainvitation.com/preview/sage-green",
+    "kategori": "wedding",
+    "keyword": ["populer","hijau","kekinian"]
+},
+{
+    "nama": "Adat Betawi",
+    "gambar": "assets/katalog/Adat Betawi.jpg",
+    "link": "https://msainvitation.com/preview/adat-betawi",
+    "kategori": "wedding",
+    "keyword": ["adat","maroon","gold"]
+},
+{
+    "nama": "Adat Sumatera",
+    "gambar": "assets/katalog/Adat Sumatera.jpg",
+    "link": "https://msainvitation.com/preview/adat-sumatera",
+    "kategori": "tanpafoto",
+    "keyword": ["gold","polos","adat"]
+},
+{
+    "nama": "Pink Korea",
+    "gambar": "assets/katalog/Pink Korea.jpg",
+    "link": "https://msainvitation.com/preview/pink-korea",
+    "kategori": "wedding",
+    "keyword": ["pink","cream","Populer"]
+},
+{
     "nama": "Jawa x Padang",
     "gambar": "assets/katalog/Jawa x Padang.jpg",
     "link": "https://msainvitation.com/preview/jawa-padang",
@@ -81,7 +109,7 @@
     "gambar": "assets/katalog/Adat Minang.jpg",
     "link": "https://msainvitation.com/preview/adat-minang",
     "kategori": "wedding",
-    "keyword": ["kmerah","adat"]
+    "keyword": ["merah","adat"]
 },
 {
     "nama": "Lilaq Feather",
