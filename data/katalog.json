@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Jawa x Padang",
+    "gambar": "assets/katalog/Jawa x Padang.jpg",
+    "link": "https://msainvitation.com/preview/jawa-padang",
+    "kategori": "wedding",
+    "keyword": ["adat","gold","flower"]
+},
+{
+    "nama": "Adat Makassar",
+    "gambar": "assets/katalog/Adat Makassar.jpg",
+    "link": "https://msainvitation.com/preview/adat-makassar",
+    "kategori": "wedding",
+    "keyword": ["adat","gold","flower"]
+},
+{
+    "nama": "Watercolor Pink",
+    "gambar": "assets/katalog/Watercolor Pink.jpg",
+    "link": "https://msainvitation.com/preview/watercolor-pink",
+    "kategori": "aqiqah",
+    "keyword": ["pink","islami","aqiqah"]
+},
+{
+    "nama": "Islamic Blue",
+    "gambar": "assets/katalog/Islamic Blue.jpg",
+    "link": "https://msainvitation.com/preview/islamic-blue",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim","biru"]
+},
+{
     "nama": "Green Tropical",
     "gambar": "assets/katalog/Green Tropical.jpg",
     "link": "https://msainvitation.com/preview/green-tropical",
