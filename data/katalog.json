@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Newspaper",
+    "gambar": "assets/katalog/Newspaper.jpg",
+    "link": "https://msainvitation.com/preview/newspaper",
+    "kategori": "wedding",
+    "keyword": ["populer","mavia","black"]
+},
+{
+    "nama": "Javanese",
+    "gambar": "assets/katalog/Javanese.jpg",
+    "link": "https://msainvitation.com/preview/javanese",
+    "kategori": "kartun",
+    "keyword": ["adat","gold","jawa","animasi"]
+},
+{
+    "nama": "Wayang Kulit",
+    "gambar": "assets/katalog/Wayang Kulit.jpg",
+    "link": "https://msainvitation.com/preview/wayang-kulit",
+    "kategori": "wedding",
+    "keyword": ["jawa","gold","adat"]
+},
+{
     "nama": "White Gold",
     "gambar": "assets/katalog/White Gold.jpg",
     "link": "https://msainvitation.com/preview/white-gold",
