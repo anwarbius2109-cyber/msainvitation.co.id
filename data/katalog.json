@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Winnie the Pooh",
+    "gambar": "assets/katalog/Winnie the Pooh.jpg",
+    "link": "https://msainvitation.com/preview/winnie-the-pooh",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","madu","anak"]
+},
+{
+    "nama": "Songket",
+    "gambar": "assets/katalog/Songket.jpg",
+    "link": "https://msainvitation.com/preview/songket",
+    "kategori": "wedding",
+    "keyword": ["adat","padang","maroon"]
+},
+{
     "nama": "Alexandra",
     "gambar": "assets/katalog/Alexandra.jpg",
     "link": "https://msainvitation.com/preview/alexandra",
