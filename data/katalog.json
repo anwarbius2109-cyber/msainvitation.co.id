@@ -1,5 +1,26 @@
 [
   {
+    "nama": "White Gold",
+    "gambar": "assets/katalog/White Gold.jpg",
+    "link": "https://msainvitation.com/preview/white-gold",
+    "kategori": "wedding",
+    "keyword": ["hijau","biru"]
+},
+{
+  "nama": "Minnie Mouse",
+    "gambar": "assets/katalog/Minnie Mouse.jpg",
+    "link": "https://msainvitation.com/preview/minnie-mouse",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","anak"]
+},
+{
+    "nama": "Wedding Passport",
+    "gambar": "assets/katalog/Wedding Passport.jpg",
+    "link": "https://msainvitation.com/preview/wedding-passport",
+    "kategori": "wedding",
+    "keyword": ["merah","kekinian"]
+},
+{
     "nama": "Boboiboy",
     "gambar": "assets/katalog/Boboiboy.jpg",
     "link": "https://msainvitation.com/preview/boboiboy",
