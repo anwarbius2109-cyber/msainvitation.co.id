@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Boboiboy",
+    "gambar": "assets/katalog/Boboiboy.jpg",
+    "link": "https://msainvitation.com/preview/boboiboy",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","anak"]
+},
+{
+    "nama": "Aceh x Jawa",
+    "gambar": "assets/katalog/Aceh x Jawa.jpg",
+    "link": "https://msainvitation.com/preview/aceh-jawa",
+    "kategori": "kartun",
+    "keyword": ["adat","coklat","animasi"]
+},
+{
     "nama": "Jawa x Banjar",
     "gambar": "assets/katalog/Jawa x Banjar.jpg",
     "link": "https://msainvitation.com/preview/jawa-banjar",
@@ -25,7 +39,7 @@
     "gambar": "assets/katalog/Cocomelon.webp",
     "link": "https://msainvitation.com/preview/cocomelon",
     "kategori": "ulangtahun",
-    "keyword": ["kartun","kartun","anak"]
+    "keyword": ["kartun","anak"]
 },
 {
     "nama": "Dayak x Jawa",
