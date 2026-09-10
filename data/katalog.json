@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Cocomelon",
+    "gambar": "assets/katalog/Cocomelon.jpg",
+    "link": "https://msainvitation.com/preview/cocomelon",
+    "kategori": "ulangtahun",
+    "keyword": ["kartun","kartun","anak"]
+},
+{
+    "nama": "Dayak x Jawa",
+    "gambar": "assets/katalog/Dayak x Jawa.jpg",
+    "link": "https://msainvitation.com/preview/dayak-jawa",
+    "kategori": "kartun",
+    "keyword": ["adat","coklat","animasi"]
+},
+{
+    "nama": "Midnight Green",
+    "gambar": "assets/katalog/Midnight Green.jpg",
+    "link": "https://msainvitation.com/preview/midnight-green",
+    "kategori": "wedding",
+    "keyword": ["hijau","daun"]
+},
+{
+    "nama": "Merak Biru",
+    "gambar": "assets/katalog/Merak Biru.jpg",
+    "link": "https://msainvitation.com/preview/merak-biru",
+    "kategori": "kartun",
+    "keyword": ["sage","bunga","animasi"]
+},
+{
     "nama": "Baby Shark",
     "gambar": "assets/katalog/Baby Shark.jpg",
     "link": "https://msainvitation.com/preview/baby-shark",
