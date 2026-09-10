@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Jawa x Banjar",
+    "gambar": "assets/katalog/Jawa x Banjar.jpg",
+    "link": "https://msainvitation.com/preview/jawa-banjar",
+    "kategori": "kartun",
+    "keyword": ["adat","hijau","sage","animasi"]
+},
+{
+    "nama": "Tuscany Blue",
+    "gambar": "assets/katalog/Tuscany Blue.jpg",
+    "link": "https://msainvitation.com/preview/tuscany-blue",
+    "kategori": "wedding",
+    "keyword": ["hijau","biru"]
+},
+{
+    "nama": "Banjar x Jawa",
+    "gambar": "assets/katalog/Banjar x Jawa.jpg",
+    "link": "https://msainvitation.com/preview/banjar-jawa",
+    "kategori": "kartun",
+    "keyword": ["adat","cream","animasi"]
+},
+{
     "nama": "Cocomelon",
     "gambar": "assets/katalog/Cocomelon.webp",
     "link": "https://msainvitation.com/preview/cocomelon",
