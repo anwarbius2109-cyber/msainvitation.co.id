@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Alexandra",
+    "gambar": "assets/katalog/Alexandra.jpg",
+    "link": "https://msainvitation.com/preview/alexandra",
+    "kategori": "party&dinner",
+    "keyword": ["hitam","romantis","blink","birtday"]
+},
+{
+    "nama": "Adat Batak",
+    "gambar": "assets/katalog/Adat Batak.jpg",
+    "link": "https://msainvitation.com/preview/adat-batak",
+    "kategori": "wedding",
+    "keyword": ["adat","maroon"]
+},
+{
+    "nama": "Green Floral",
+    "gambar": "assets/katalog/Green Floral.jpg",
+    "link": "https://msainvitation.com/preview/green-floral",
+    "kategori": "wedding",
+    "keyword": ["hijau","dedaunan"]
+},
+{
     "nama": "Sage Green",
     "gambar": "assets/katalog/Sage Green.jpg",
     "link": "https://msainvitation.com/preview/sage-green",
