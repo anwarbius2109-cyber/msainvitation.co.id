@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Cherry Blossom",
+    "gambar": "assets/katalog/Cherry Blossom.jpg",
+    "link": "https://msainvitation.com/preview/cherry-blossom",
+    "kategori": "party&dinner",
+    "keyword": ["pink","romantis","mistery","birtday"]
+},
+{
+  "nama": "Rounded Luxurious",
+    "gambar": "assets/katalog/Rounded Luxurious.jpg",
+    "link": "https://msainvitation.com/preview/rounded-luxurious",
+    "kategori": "wedding",
+    "keyword": ["mavia","black"]
+},
+{
+    "nama": "Pink Roses",
+    "gambar": "assets/katalog/Pink Roses.jpg",
+    "link": "https://msainvitation.com/preview/pink-roses",
+    "kategori": "party&dinner",
+    "keyword": ["pink","romantis","blink","birtday"]
+},
+{
     "nama": "Chinese Java",
     "gambar": "assets/katalog/Chinese Java.webp",
     "link": "https://msainvitation.com/preview/chinese-java",
