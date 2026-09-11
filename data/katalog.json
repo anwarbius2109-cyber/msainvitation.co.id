@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Pink Passport",
+    "gambar": "assets/katalog/Pink Passport.webp",
+    "link": "https://msainvitation.com/preview/pink-passport",
+    "kategori": "wedding",
+    "keyword": ["pink","kekinian"]
+},
+{
+    "nama": "Java Maroon 3D",
+    "gambar": "assets/katalog/Java Maroon 3D.webp",
+    "link": "https://msainvitation.com/preview/java-maroon-3d",
+    "kategori": "wedding",
+    "keyword": ["jawa","maroon","montion"]
+},
+{
     "nama": "Cherry Blossom",
     "gambar": "assets/katalog/Cherry Blossom.jpg",
     "link": "https://msainvitation.com/preview/cherry-blossom",
