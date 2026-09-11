@@ -1,5 +1,19 @@
 [
   {
+    "nama": "Chinese Java",
+    "gambar": "assets/katalog/Chinese Java.webp",
+    "link": "https://msainvitation.com/preview/chinese-java",
+    "kategori": "tanpafoto",
+    "keyword": ["jawa","coklat","adat"]
+},
+{
+    "nama": "Bone Biru",
+    "gambar": "assets/katalog/Bone Biru.webp",
+    "link": "https://msainvitation.com/preview/bone-biru",
+    "kategori": "kartun",
+    "keyword": ["adat","biru","bugis"]
+},
+{
     "nama": "Newspaper",
     "gambar": "assets/katalog/Newspaper.jpg",
     "link": "https://msainvitation.com/preview/newspaper",
