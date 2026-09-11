@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Luxury Brown",
+    "gambar": "assets/katalog/Luxury Brown.jpg",
+    "link": "https://msainvitation.com/preview/luxury-brown",
+    "kategori": "aqiqah",
+    "keyword": ["coklat","islami","aqiqah"]
+},
+{
+    "nama": "Elegant Islamic",
+    "gambar": "assets/katalog/Elegant Islamic.jpg",
+    "link": "https://msainvitation.com/preview/elegant-islamic",
+    "kategori": "khitan",
+    "keyword": ["khitanan","masjid","muslim"]
+},
+{
+    "nama": "Phinisi Pink",
+    "gambar": "assets/katalog/Phinisi Pink.webp",
+    "link": "https://msainvitation.com/preview/phinisi-pink",
+    "kategori": "wedding",
+    "keyword": ["adat","pink"]
+},
+{
     "nama": "Cream Lampung",
     "gambar": "assets/katalog/Cream Lampung.jpg",
     "link": "https://msainvitation.com/preview/cream-lampung",
