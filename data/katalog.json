@@ -1,5 +1,26 @@
 [
   {
+    "nama": "Cream Lampung",
+    "gambar": "assets/katalog/Cream Lampung.jpg",
+    "link": "https://msainvitation.com/preview/cream-lampung",
+    "kategori": "wedding",
+    "keyword": ["adat","cream"]
+},
+{
+    "nama": "Simple Brown",
+    "gambar": "assets/katalog/Simple Brown.jpg",
+    "link": "https://msainvitation.com/preview/simple-brown",
+    "kategori": "wedding",
+    "keyword": ["hitam","cream"]
+},
+{
+    "nama": "Peacocks",
+    "gambar": "assets/katalog/Peacocks.jpg",
+    "link": "https://msainvitation.com/preview/peacocks",
+    "kategori": "wedding",
+    "keyword": ["merah","cream"]
+},
+{
     "nama": "Pink Passport",
     "gambar": "assets/katalog/Pink Passport.webp",
     "link": "https://msainvitation.com/preview/pink-passport",
