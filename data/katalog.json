@@ -1,5 +1,33 @@
 [
   {
+    "nama": "Adat Bugis B",
+    "gambar": "assets/katalog/Adat Bugis B.jpg",
+    "link": "https://msainvitation.com/preview/adat-bugis-flat",
+    "kategori": "kartun",
+    "keyword": ["adat","merah","bugis"]
+},
+{
+    "nama": "Adat Aceh",
+    "gambar": "assets/katalog/Adat Aceh.jpg,
+    "link": "https://msainvitation.com/preview/adat-aceh",
+    "kategori": "kartun",
+    "keyword": ["adat","gold"]
+},
+{
+    "nama": "Red Lampung",
+    "gambar": "assets/katalog/Red Lampung.jpg",
+    "link": "https://msainvitation.com/preview/red-lampung",
+    "kategori": "wedding",
+    "keyword": ["adat","merah","gold"]
+},
+{
+    "nama": "Artichoke",
+    "gambar": "assets/katalog/Artichoke.jpg",
+    "link": "https://msainvitation.com/preview/artichoke",
+    "kategori": "kartun",
+    "keyword": ["sage","hijau","animasi"]
+},
+{
     "nama": "Luxury Brown",
     "gambar": "assets/katalog/Luxury Brown.jpg",
     "link": "https://msainvitation.com/preview/luxury-brown",
